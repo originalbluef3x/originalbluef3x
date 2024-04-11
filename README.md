@@ -12,4 +12,4 @@
   - A Simple ball bouncing "game" where balls start on a friction-less plane, in a vaccum and bounce off of walls (not other balls) until your pc crashes.
   - It also draws a line between neighboring balls in random colors.
   - View it [here](https://boing.cloudapi.one) or you can see the link [https://boing.cloudapi.one](https://boing.cloudapi.one)
-  - You can make it go crazy by using CMD and Chrome. `start chrome --args --disable-gpu-vsync --disable-frame-rate-limit
+  - You can make it go crazy by using CMD and Chrome. `start chrome --args --disable-gpu-vsync --disable-frame-rate-limit`
