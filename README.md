@@ -1,15 +1,19 @@
-# CodeNationGroup, list of projects/websites
+# CodeNationGroup's Profile
+- Hi, I'm Spencer, welcome to my profile
 
-## CloudAPI.one
-- Originally meant to be a build-your-own API service, CloudAPI now has 14 different projects (h e l p)
-  ### Dashboard
-  - CloudAPI's dashboard was originally meant to make new endpoints but now needs to be redone
-  ### Uploading
-  - Meant to allow files to be uploaded to my old discarded laptops, this project has numerous security vulnerabilities I decided to rewrite this
+## I program
+- No, really?
+- I'm currently on the programming team for [team2393](https://team2393.com) and would you look at that, it's the website I made
+- (Yes, it's bad, as are all things that are a WIP)
 
+- I know Java, JavaScript, Lua, LuaU, C++, Python, HTML/CSS (you be the judge of how good my skills are)
+- Fun fact: I know 7 total programming languages, not fluently but good enough to be constantly learning!
+- Fun fact #2: I'm entirely self-taught. Not a dime was spent for me to learn any language; Guess what? You can too!
 
-# Ball bouncing engine
-  - A Simple ball bouncing "game" where balls start on a friction-less plane, in a vaccum and bounce off of walls (not other balls) until your pc crashes.
-  - It also draws a line between neighboring balls in random colors.
-  - View it [here](https://boing.cloudapi.one) or you can see the link [https://boing.cloudapi.one](https://boing.cloudapi.one)
-  - You can make it go crazy by using CMD and Chrome. `start chrome --args --disable-gpu-vsync --disable-frame-rate-limit`
+# Self-Taught, you say?
+- Yes, really. Fully self-taught.
+- Which is why I dont know most of the programming lingo, but usually I dont need to.
+
+## How?
+- Mostly, reading docs, tinkering with youtube tutorials and their code.
+- and a lot.. A LOT of console.log()-ing
