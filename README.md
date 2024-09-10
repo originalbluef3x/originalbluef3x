@@ -1,4 +1,4 @@
-# CodeNationGroup's Profile
+# OriginalBlueF3X's Profile
 - Hi, I'm Spencer, welcome to my profile
 
 ## I program
@@ -17,3 +17,6 @@
 ## How?
 - Mostly, reading docs, tinkering with youtube tutorials and their code.
 - and a lot.. A LOT of console.log()-ing
+
+
+You can find a list of my websites [here](https://vixitythefox.xyz/?from=github)
