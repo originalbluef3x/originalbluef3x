@@ -1,5 +1,5 @@
 # OriginalBlueF3X's Profile
-- Hi, I'm Spencer, welcome to my profile
+- Hi, I'm Kyra, welcome to my profile
 
 ## I program
 - No, really?
