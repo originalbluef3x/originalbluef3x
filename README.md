@@ -20,3 +20,5 @@
 
 
 You can find a list of my websites [here](https://vixitythefox.xyz/?from=github)
+
+hi future me from dec 26 2025: this profile page is almost entirely outdated (sorry) ill update it soon!
